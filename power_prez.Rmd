@@ -1,0 +1,57 @@
+---
+title: "Power_BioTechNan_info"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## „BioTechNan – Program Interdyscyplinarnych Środowiskowych Studiów Doktoranckich KNOW z obszaru Biotechnologii i Nanotechnologii
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+##  Realizacja programu studiów doktoranckich
+
+- Kierownik Studiów Doktoranckich w każdej jednostce realizującej projekt przekazuje do Biura Projektu informacje o zaliczeniu semestru. 
+- Zaliczenie następuje w oparciu o obowiązujące we właściwej jednostce przepisy oraz na podstawie wymaganych w danej jednostce dokumentów służących weryfikacji postępów w pracy badawczej Uczestnika projektu.
+- Raz w roku akademickim, zostanie zorganizowane wspólne seminarium dla wszystkich uczestników projektu, na którym będą prezentowane postępy i osiągnięcia doktorantów, którzy osiągnęli najlepsze wyniki.
+
+
+##  Stypendia dla uczestników Projektu
+
+- Stypendium naukowe motywacyjne jest stypendium celowym o charakterze motywacyjnym (stypendium naukowe).
+- Stypendia są przyznawane doktorantom Interdyscyplinarnych Środowiskowych Studiów Doktoranckich „BioTechNan” w wysokości 2 000,00 zł (słownie: dwa tysiące złotych) miesięcznie, po złożeniu przez doktoranta stosownego wniosku.
+- Wsparcie stypendialne przyznawane jest na okres 6 mies. tj. od października do marca roku następnego oraz od kwietnia do września, z uwzględnieniem weryfikacji postępów pracy badawczej doktoranta po każdym semestrze.
+- Z doktorantem zostanie zawarta umowa stypendialna, na podstawie której otrzyma stypendium na 6-cio miesięczny okres odbywania
+Interdyscyplinarnych Środowiskowych Studiów Doktoranckich. 
+- Przedłużenie okresu pobierania stypendium na kolejne okresy wymaga każdorazowo aneksu do zawartej umowy stypendialnej. 
+- Pani Viola przygotowuje dokumenty.
+
+##  Finanse projektu
+
+- Okres realizacji projektu: 1 kwietnia 2018 r. – 31 marca 2023 r.
+- Całkowita wartość projektu: 3 948 852,75 zł
+- Średnia na doktoranta: 131628,425 zł
+- Po odjęciu stypendiów: 35628,425
+
+##  Wydział Biotechnologii
+
+- Zaplanowano staże 1-miesieczne dla 5 doktorantów.
+- Doktorant uczestniczący w stażu otrzyma stypendium stażowe na poczet zakwaterowania i wyżywienia
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
