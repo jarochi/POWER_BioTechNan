@@ -1,17 +1,19 @@
 ---
-title: "Power_BioTechNan_info"
+title: "Power BioTechNan info"
 output: ioslides_presentation
----
+widescreen: true
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+---
 
 ## „BioTechNan – Program Interdyscyplinarnych Środowiskowych Studiów Doktoranckich KNOW z obszaru Biotechnologii i Nanotechnologii
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Celem głównym projektu jest zwiększenie do marca 2023 r. jakości i efektywności kształcenia na studiach doktoranckich realizowanych z zakresu Biotechnologii i Nanotechnologii na Politechnice Wrocławskiej, Uniwersytecie Wrocławskim, Uniwersytecie Przyrodniczym we Wrocławiu oraz w Instytucie Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk poprzez utworzenie i realizację nowych Środowiskowych Interdyscyplinarnych Studiów Doktoranckich w ramach partnerstwa KNOW, skierowanych do 30 doktorantów.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+## „BioTechNan – Program Interdyscyplinarnych Środowiskowych Studiów Doktoranckich KNOW z obszaru Biotechnologii i Nanotechnologii
+
+Studia będą prowadzone w jednostkach posiadających prestiżowy status Krajowego Naukowego Ośrodka Wiodącego („KNOW”) w dziedzinach Nauk Biologicznych, Nauk Rolniczych i Nauk o Ziemi nadany przez Ministerstwo Nauki i Szkolnictwa Wyższego.
+
+Grupą docelową jest 30 doktorantów, którzy odbędą pełny 4-letni cykl kształcenia na stacjonarnych środowiskowych studiach doktoranckich w zakresie bio- i nanotechnologii.
 
 ##  Realizacja programu studiów doktoranckich
 
@@ -22,9 +24,9 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ##  Stypendia dla uczestników Projektu
 
-- Stypendium naukowe motywacyjne jest stypendium celowym o charakterze motywacyjnym (stypendium naukowe).
-- Stypendia są przyznawane doktorantom Interdyscyplinarnych Środowiskowych Studiów Doktoranckich „BioTechNan” w wysokości 2 000,00 zł (słownie: dwa tysiące złotych) miesięcznie, po złożeniu przez doktoranta stosownego wniosku.
-- Wsparcie stypendialne przyznawane jest na okres 6 mies. tj. od października do marca roku następnego oraz od kwietnia do września, z uwzględnieniem weryfikacji postępów pracy badawczej doktoranta po każdym semestrze.
+- Stypendium naukowe motywacyjne jest stypendium celowym o charakterze motywacyjnym.
+- Stypendia są przyznawane doktorantom „BioTechNan” w wysokości 2 000,00 zł miesięcznie, po złożeniu przez doktoranta stosownego wniosku.
+- Wsparcie stypendialne przyznawane jest na okres 6 mies., od października do marca roku następnego oraz od kwietnia do września, z uwzględnieniem weryfikacji postępów pracy badawczej doktoranta po każdym semestrze.
 - Z doktorantem zostanie zawarta umowa stypendialna, na podstawie której otrzyma stypendium na 6-cio miesięczny okres odbywania
 Interdyscyplinarnych Środowiskowych Studiów Doktoranckich. 
 - Przedłużenie okresu pobierania stypendium na kolejne okresy wymaga każdorazowo aneksu do zawartej umowy stypendialnej. 
@@ -35,23 +37,18 @@ Interdyscyplinarnych Środowiskowych Studiów Doktoranckich.
 - Okres realizacji projektu: 1 kwietnia 2018 r. – 31 marca 2023 r.
 - Całkowita wartość projektu: 3 948 852,75 zł
 - Średnia na doktoranta: 131628,425 zł
-- Po odjęciu stypendiów: 35628,425
+- Po odjęciu stypendiów: 35628,425 zł
 
 ##  Wydział Biotechnologii
 
 - Zaplanowano staże 1-miesieczne dla 5 doktorantów.
-- Doktorant uczestniczący w stażu otrzyma stypendium stażowe na poczet zakwaterowania i wyżywienia
-- Bullet 3
+- Doktorant uczestniczący w stażu otrzyma stypendium stażowe na poczet zakwaterowania i wyżywienia.
+- Prócz stypendium doktorant otrzymuje także zwrot kosztów podróży.
+- Wyjazdy na staże mają być realizowane corocznie w latach 2019-2022. W 2021 r. mają odbyć się 2 wyjazdy.
 
-## Slide with R Output
+##  Finanse Wydział Biotechnologii
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
+- Łączna kwota na stypendia stażowe dla 5 doktorantów wynosi 38 430,00 zł
+- Uśredniona kwotę 7686,00 zł na 1-miesięczny staż 1 doktoranta.
+- Na finansowanie kosztów podróży jest łącznie 10 583,00 zł
+- Uśredniona kwota ok. 2100 zł na wyjazd 1 doktoranta.
