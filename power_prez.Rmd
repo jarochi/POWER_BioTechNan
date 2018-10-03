@@ -7,7 +7,11 @@ widescreen: true
 
 ## BioTechNan – Program Interdyscyplinarnych Środowiskowych Studiów Doktoranckich KNOW z obszaru Biotechnologii i Nanotechnologii
 
-Celem głównym projektu jest zwiększenie do marca 2023 r. jakości i efektywności kształcenia na studiach doktoranckich realizowanych z zakresu Biotechnologii i Nanotechnologii na Politechnice Wrocławskiej, Uniwersytecie Wrocławskim, Uniwersytecie Przyrodniczym we Wrocławiu oraz w Instytucie Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk poprzez utworzenie i realizację nowych Środowiskowych Interdyscyplinarnych Studiów Doktoranckich w ramach partnerstwa KNOW, skierowanych do 30 doktorantów.
+Celem głównym projektu jest zwiększenie do marca 2023 r. jakości i efektywności kształcenia na studiach doktoranckich realizowanych z zakresu Biotechnologii i Nanotechnologii na:
+
+- Politechnice Wrocławskiej, Uniwersytecie Wrocławskim, Uniwersytecie Przyrodniczym we Wrocławiu oraz Instytucie Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda Polskiej Akademii Nauk
+
+poprzez utworzenie i realizację nowych Środowiskowych Interdyscyplinarnych Studiów Doktoranckich w ramach partnerstwa KNOW, skierowanych do 30 doktorantów.
 
 ## BioTechNan – Program Interdyscyplinarnych Środowiskowych Studiów Doktoranckich KNOW z obszaru Biotechnologii i Nanotechnologii
 
@@ -24,8 +28,7 @@ Grupą docelową jest 30 doktorantów, którzy odbędą pełny 4-letni cykl kszt
 
 ##  Stypendia dla uczestników Projektu
 
-- Stypendium naukowe motywacyjne jest stypendium celowym o charakterze motywacyjnym.
-- Stypendia są przyznawane doktorantom „BioTechNan” w wysokości 2 000,00 zł miesięcznie, po złożeniu przez doktoranta stosownego wniosku.
+- Stypendia w wysokości 2 000,00 zł miesięcznie, po złożeniu przez doktoranta stosownego wniosku.
 - Wsparcie stypendialne przyznawane jest na okres 6 mies., od października do marca roku następnego oraz od kwietnia do września, z uwzględnieniem weryfikacji postępów pracy badawczej doktoranta po każdym semestrze.
 - Z doktorantem zostanie zawarta umowa stypendialna, na podstawie której otrzyma stypendium na 6-cio miesięczny okres odbywania
 Interdyscyplinarnych Środowiskowych Studiów Doktoranckich. 
@@ -52,3 +55,11 @@ Interdyscyplinarnych Środowiskowych Studiów Doktoranckich.
 - Uśredniona kwotę 7686,00 zł na 1-miesięczny staż 1 doktoranta.
 - Na finansowanie kosztów podróży jest łącznie 10 583,00 zł
 - Uśredniona kwota ok. 2100 zł na wyjazd 1 doktoranta.
+
+##  Finanse Wydział Biotechnologii dla 4 doktorantów (jeszcze nie dostałem odpowiedzi)
+
+- Łączna kwota na stypendia stażowe wynosi 38 430,00 zł
+- Uśredniona kwotę 9607,50 zł na 1-miesięczny staż 1 doktoranta.
+- Na finansowanie kosztów podróży jest łącznie 10 583,00 zł
+- Uśredniona kwota ok. 2645,75 zł na wyjazd 1 doktoranta.
+- Stypendium 2500,00 zł (nieoficjalnie 2200)
